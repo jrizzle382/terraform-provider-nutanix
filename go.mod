@@ -8,6 +8,7 @@ require (
 	github.com/mattn/go-isatty v0.0.7 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/spf13/afero v1.2.2 // indirect
+	golang.org/x/tools v0.0.0-20200416061724-5744cfde56ed // indirect
 )
 
 go 1.13
